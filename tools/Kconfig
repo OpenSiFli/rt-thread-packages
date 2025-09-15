@@ -1,10 +1,10 @@
 menu "tools packages"
 
-source "$PKGS_DIR/packages/tools/CmBacktrace/Kconfig"
+# source "$PKGS_DIR/packages/tools/CmBacktrace/Kconfig"
 source "$PKGS_DIR/packages/tools/MCoreDump/Kconfig"
 source "$PKGS_DIR/packages/tools/EasyFlash/Kconfig"
 source "$PKGS_DIR/packages/tools/EasyLogger/Kconfig"
-source "$PKGS_DIR/packages/tools/SystemView/Kconfig"
+# source "$PKGS_DIR/packages/tools/SystemView/Kconfig"
 source "$PKGS_DIR/packages/tools/SEGGER_RTT/Kconfig"
 source "$PKGS_DIR/packages/tools/rtt_auto_exe_cmd/Kconfig"
 source "$PKGS_DIR/packages/tools/rdb/Kconfig"
